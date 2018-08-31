@@ -3914,7 +3914,7 @@ body.is-preload #banner:after {
     -webkit-order: 2;
     -ms-order: 2;
     order: 2;
-    width: 30%;
+    width: 50%;
 }
 
 @media screen and (max-width: 980px) {
